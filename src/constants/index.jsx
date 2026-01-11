@@ -132,7 +132,7 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Pro",
+    title: "golden",
     price: "$10",
     features: [
       "Private board sharing",

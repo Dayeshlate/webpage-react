@@ -27,7 +27,7 @@ export const testimonials = [
     text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
   },
   {
-    user: "Jane Smith",
+    user: "Rob stark",
     company: "Blue Horizon Technologies",
     image: user2,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
